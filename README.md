@@ -1,2 +1,3 @@
-![](https://komarev.com/ghpvc/?username=bajiroots
-)
+<img src="contributions.svg">
+
+![](https://komarev.com/ghpvc/?username=bajiroots&style=for-the-badge)
