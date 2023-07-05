@@ -8,7 +8,7 @@ I'm currently a Sophomore at Politeknik Pertanian Negeri Samarinda based in Ho C
 
 I mostly write Typescript and work on the web but I also enjoy writing Rust *(still learning)* as a hobby in my spare time.
 
-You can find me on [LinkedIn]([https://www.linkedin.com/in/nhthieu16/](https://www.linkedin.com/in/dicky-armansyah-214377193/)) or contact me at [dickyarmasnayh007@gmail.com](mailto:dickyarmansyah007@gmail.com)
+You can find me on [LinkedIn]([https://www.linkedin.com/in/dicky-armansyah-214377193/]) or contact me at [dickyarmasnayh007@gmail.com](mailto:dickyarmansyah007@gmail.com)
 
  ### Languages:
 
