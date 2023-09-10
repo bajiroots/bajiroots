@@ -6,7 +6,7 @@
 
 I'm currently a Sophomore at Politeknik Pertanian Negeri Samarinda based in Samarinda City, East Borneo, Indonesia.
 
-I mostly write PHP and work on the web but I also enjoy writing Rust *(still learning)* as a hobby in my spare time.
+I mostly write PHP and work on the web but I also enjoy writing TypeScript *(still learning)* as a hobby in my spare time.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/dicky-armansyah-214377193/) or contact me at [dickyarmansyah007@gmail.com](mailto:dickyarmansyah007@gmail.com)
 
